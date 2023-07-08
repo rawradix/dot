@@ -207,6 +207,7 @@ brew install lynx
 brew install marksman
 brew install zoxide
 brew install tree
+brew install tig
 ```
 
 Zoxide needs to initialized in zsh. See: https://github.com/ajeetdsouza/zoxide.
