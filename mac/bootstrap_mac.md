@@ -83,6 +83,12 @@ Set it up:
 
 ### macOS sane usability setup
 
+- android interop
+
+```bash
+brew install android-file-transfer
+```
+
 - Remap keys to correct/used position
 
 ```bash
