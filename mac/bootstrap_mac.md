@@ -83,6 +83,16 @@ Set it up:
 
 ### macOS sane usability setup
 
+- Remap keys to correct/used position
+
+```bash
+brew install --cask karabiner-elements
+```
+
+Then remap things.
+
+    - tilde to pinkie
+
 - A good clipboard manager
 
 ```bash
